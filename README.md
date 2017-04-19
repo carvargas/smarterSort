@@ -1,2 +1,2 @@
 # smarterSort
-topological sort using arrays
+topological sort using arrays with JSON input/output
